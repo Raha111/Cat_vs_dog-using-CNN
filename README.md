@@ -28,3 +28,19 @@ To run this project, you need to have Python and Jupyter Notebook installed. Add
 
 ```bash
 pip install -r requirements.txt
+
+## Usage
+
+1. Clone this repository:
+```bash
+git clone https://github.com/Raha111/Cat_vs_dog-using-CNN.git                                                                                                                                                                                    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
