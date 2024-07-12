@@ -58,6 +58,8 @@ model = models.Sequential([
 ])
 ```
 
+![](https://github.com/Raha111/Cat_vs_dog-using-CNN/blob/main/Architecture.png)
+
 ## Results
 The model is trained for 10 epochs, and the performance is evaluated using accuracy and loss metrics. Below are the training and validation accuracy and loss plots:
 
@@ -67,7 +69,11 @@ loss, accuracy = model.evaluate(test_generator)
 print("Test Loss:", loss)
 print("Test Accuracy:", accuracy)
 ```
+Test Loss: 0.49008414149284363
+Test Accuracy: 0.864799976348877
 
+![]()
+![]()
 
 
 ## Visualization
