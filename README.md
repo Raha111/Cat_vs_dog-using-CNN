@@ -79,6 +79,8 @@ Test Accuracy: 0.864799976348877
 ## Visualization
 ### Confusion Matrix
 The confusion matrix is plotted to visualize the performance of the classifier on the test set.
+
+![](https://github.com/Raha111/Cat_vs_dog-using-CNN/blob/main/confusion_matrix.png)
 ### Feature Maps
 The feature maps of the convolutional layers are visualized to understand what the model has learned. 
   
