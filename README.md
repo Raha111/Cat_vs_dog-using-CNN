@@ -70,10 +70,10 @@ print("Test Loss:", loss)
 print("Test Accuracy:", accuracy)
 ```
 Test Loss: 0.49008414149284363
+
 Test Accuracy: 0.864799976348877
 
-![]()
-![]()
+![Loss and Accuracy](https://github.com/Raha111/Cat_vs_dog-using-CNN/blob/main/loss.png)
 
 
 ## Visualization
